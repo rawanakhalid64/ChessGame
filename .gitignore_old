@@ -57,3 +57,13 @@ typings/
 # dotenv environment variables file
 .env
 
+# Ignore dependencies
+node_modules/
+bower_components/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
