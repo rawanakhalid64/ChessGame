@@ -1,9 +1,9 @@
 
 `` What is the beginning of eternity, the end of time and space, the beginning of every end and the end of every race?  ``
 
-# Chezz Chess
+# Chess Game
 
-### Chezz chess is a multiplayer 5 minutes  chess game made using Socket.IO
+### Chess is a multiplayer 5 minutes  chess game made using Socket.IO
 
 ## How to run it ?
 
@@ -12,30 +12,12 @@
 * Mongo DB
 * Node JS
 
-#### Run the application
-
-Run Mongo db using :
-
-```
-$> mongod
-```
-
-or `sudo mongod` depending on your OS =)
 
 
-Download the node packages and dependecies :
-```
-$> npm install
-```
-
-Run the server:
-```
-$> node .
-```
 
 By this the game should be running on `http://localhost:3000`
 
-## Chezz Chess Project is made out of two parts:
+##  Chess Project is made out of two parts:
 
 * Client  
     * Socket.io(Socket.IO enables real-time bidirectional event-based communication)
@@ -92,8 +74,8 @@ Example:
 ```
 {
     "id": "123",
-    "name": "khaled",
-    "email": "khaled.dawodieh@gmail.com",
+    "name": "Rawana",
+    "email": "rawanakhalid64@gmail.com",
     "lastConnection": "now :p "
 }
 ```
