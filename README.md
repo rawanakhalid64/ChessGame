@@ -68,7 +68,7 @@ By this the game should be running on `http://localhost:3000`
 Example:
 
 ``
-/api/user/khaled
+/api/user/Rawana
 ``
 
 ```
